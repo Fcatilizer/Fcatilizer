@@ -6,7 +6,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 - <img src="https://cdn-icons-png.flaticon.com/512/300/300218.png" width="20" height="20"> **[Eye Care](https://play.google.com/store/apps/details?id=com.a3.eyecare&pli=1)** - An Android app which is beautifully designed to help you to take care of your eyes. It provides you a way to keep records of their prescription in the cloud and access them from anywhere.
 - <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" height="20"> **[Library Management](https://github.com/Fcatilizer/Library_Management)** - A mobile app to manage library books and members. It is built using Kotlin and Firebase.
-- <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" height="20"> **[SYS-MAIN](https://github.com/Fcatilizer/another-project)** - A light-weight UI to do basic system maintainence on Linux. It is built using Python and GTK4.
+- <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" height="20"> **[SYS-MAIN](https://github.com/Fcatilizer/sys_main)** - A light-weight UI to do basic system maintenance on Linux. It is built using Python and GTK4.
 - <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="20" height="20"> **[Portfolio](https://ashish-portfolio-main.vercel.app/)** - My personal portfolio website built using Next.js and Tailwind CSS.
 
 ## 🌱 Learning and Growth
