@@ -1,21 +1,19 @@
-<div align="center">
-
-<img src="https://www.ashish-gaurav.com/_next/image?url=%2Fme.jpg&w=640&q=75" width="50%"/>
-
-<a href="https://www.ashish-gaurav.com/">
-  <img src="https://img.shields.io/badge/Portfolio-ashish--gaurav.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:ashish.gaurav2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ashish.gaurav2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ashish-gaurav03/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/ashishgaurav203">
-  <img src="https://img.shields.io/badge/Twitter-%40ashishgaurav203-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://www.ashish-gaurav.com/_next/image?url=%2Fme.jpg&w=640&q=75" width="50%"/>
+  <br/>
+  <a href="https://www.ashish-gaurav.com/">
+    <img src="https://img.shields.io/badge/Portfolio-ashish--gaurav.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ashish.gaurav2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashish.gaurav2003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashish-gaurav03/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ashishgaurav203">
+    <img src="https://img.shields.io/badge/Twitter-%40ashishgaurav203-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
